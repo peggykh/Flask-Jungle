@@ -83,7 +83,5 @@ unity-lens-photos==1.0
 urllib3==1.7.1
 virtualenv==1.11.4
 wsgiref==0.1.2
-wxPython==2.8.12.1
-wxPython-common==2.8.12.1
 xdiagnose==3.6.3build2
 zope.interface==4.0.5
